@@ -4,7 +4,7 @@ Contributors: bitacre
 Donate link: http://wikiduh.com/donate
 Tags: shortcode, echo, display, last, time, date, update, updated, modified, changed
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.4.1
 Stable tag: 1.0.0
 
 Creates a shortcode to display the date/time when a post/page was last updated (with optional formatting).

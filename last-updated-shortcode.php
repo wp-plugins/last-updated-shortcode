@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: Last Updated Shortcode
-Plugin URI: http://wikiduh.com/plugins/last-updated-shortcode
+Plugin URI: http://shinraholdings.com/plugins/last-updated-shortcode
 Description: Creates a shortcode to display the date/time when a post/page was last updated (with optional formatting).
 Version: 1.0.0
 Author: bitacre
-Author URI: http://wikiduh.com
+Author URI: http://shinraholdings.com
 License: GPLv2 
-	Copyright 2011 bitacre (plugins@wikiduh.com)
+	Copyright 2012 Shinra Web Holdings (plugins@shinraholdings.com)
 	
 Shortcodes: 
 	[lastupdate] or [lastupdated]
@@ -47,7 +47,7 @@ Examples:
 	$comment_tag = '
 <!-- 
 Plugin: Last Updated Shortcode
-Plugin URI: http://wikiduh.com/plugins/last-updated-shortcode
+Plugin URI: http://shinraholdings.com/plugins/last-updated-shortcode
 -->
 ';
 
